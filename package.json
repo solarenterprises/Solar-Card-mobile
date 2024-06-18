@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Solar Card",
   "main": "index.js",
-  "repository": "https://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@github.com/solarenterprises/Solar-Card-mobile.git",
+  "repository": "https://github.com/solarenterprises/Solar-Card-mobile.git",
   "author": "hello@solarenterprises.com",
   "license": "MIT"
 }
